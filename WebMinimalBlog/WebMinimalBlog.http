@@ -1,0 +1,6 @@
+@WebMinimalBlog_HostAddress = http://localhost:5064
+
+GET {{WebMinimalBlog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
